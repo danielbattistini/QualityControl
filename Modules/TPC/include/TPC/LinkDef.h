@@ -28,6 +28,7 @@
 #pragma link C++ class o2::quality_control_modules::tpc::DCSPTemperature+;
 #pragma link C++ class o2::quality_control_modules::tpc::IDCs+;
 #pragma link C++ class o2::quality_control_modules::tpc::QualityObserver+;
+#pragma link C++ class o2::quality_control_modules::tpc::CheckOfPads+;
 #pragma link C++ class o2::quality_control_modules::tpc::RatioGeneratorTPC+;
 #pragma link C++ class o2::quality_control_modules::tpc::CheckOfSlices+;
 
